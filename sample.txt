@@ -1,0 +1,5 @@
+1. Create and delete repository ?
+2. Create and delete branch ?
+3. Create and delete tag?
+4. How to add/delete files and commit changes?
+5. How to check commits and detailed info about commits? 
